@@ -21,9 +21,7 @@ This project is a Python-based GUI application for analyzing academic performanc
 
 ## Usage
 
-1. Clone the repository:
-
-    ```bash
+1. Clone the repository:  ```bash
 https://github.com/Varun-Singh24/Academic-Performance-Analysis.git
 ```
 
