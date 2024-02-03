@@ -1,6 +1,5 @@
 # Academic-Performance-Analysis #
 
-//# Central University Of Karnataka Result Analysis
 
 
 ## Overview
