@@ -1,8 +1,7 @@
-<h2>Academic-Performance-Analysis </h2> 
+# Academic-Performance-Analysis #
 
-This is a GUI based Academic Performance Analysis Portal of Students Semester-wise performance. This project is made for helping the HoD's, Deans, Professors and students to analyse their performance in semester examination.
+//# Central University Of Karnataka Result Analysis
 
-# Central University Of Karnataka Result Analysis
 
 ## Overview
 
@@ -17,7 +16,7 @@ This project is a Python-based GUI application for analyzing academic performanc
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - Required Python packages: `pandas`, `matplotlib`, `seaborn`, `PIL`
 
 ## Usage
@@ -25,35 +24,22 @@ This project is a Python-based GUI application for analyzing academic performanc
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/central-university-analysis.git
-    ```
+https://github.com/Varun-Singh24/Academic-Performance-Analysis.git
+```
 
-2. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the application:
+2. Run the application:
 
     ```bash
     python main.py
     ```
 
 ## Screenshots
+![ALL Options](https://github.com/Varun-Singh24/Academic-Performance-Analysis/assets/146599301/4b5e39b7-18b5-4e0b-9723-36b5710e076b)
 
-Include screenshots or GIFs demonstrating the functionality and appearance of your application.
 
-## Contributing
 
-Feel free to contribute by opening issues or submitting pull requests. Please follow the [contributing guidelines](CONTRIBUTING.md).
+//## Acknowledgments
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to [University Name] for providing the dataset.
-- Inspiration: [Mention any projects or resources that inspired your work]
+//- Thanks to [University Name] for providing the dataset.
+//- Inspiration: [Mention any projects or resources that inspired your work]
 
