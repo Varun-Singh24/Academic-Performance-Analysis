@@ -32,9 +32,3 @@ This project is a Python-based GUI application for analyzing academic performanc
 ![ALL Options](https://github.com/Varun-Singh24/Academic-Performance-Analysis/assets/146599301/4b5e39b7-18b5-4e0b-9723-36b5710e076b)
 
 
-
-//## Acknowledgments
-
-//- Thanks to [University Name] for providing the dataset.
-//- Inspiration: [Mention any projects or resources that inspired your work]
-
